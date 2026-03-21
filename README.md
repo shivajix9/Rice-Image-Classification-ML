@@ -61,10 +61,6 @@ Saved files:
 best_model.pkl
 scaler.pkl
 label_encoder.pkl
-🔗 Streamlit App
-https://rice-image-classification-ml-murappyxtbbeao2vr4ktg2s.streamlit.app
-🔗 Hugging Face App
-https://huggingface.co/spaces/shivajix9/Rice_Image_Classification_by_ML_Algorithms
 
 🌍 Applications
 Rice quality inspection
@@ -89,10 +85,4 @@ HOG Feature Extraction
 Random Forest
 Streamlit
 
-👨‍💻 Author
-Shivaji T
-Aspiring AI / ML Engineer | Data Scientist | Data Analyst
-🔗 LinkedIn
-https://www.linkedin.com/in/shivaji-t-293a90373/
-🔗 GitHub
-https://github.com/shivajix9
+
